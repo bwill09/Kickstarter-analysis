@@ -9,6 +9,7 @@ Challenges faced during sorting and analyzing the crowdfunding data: “Successf
 Two Outcome base on theater outcomes by lunch date:
 
 •	The most successful Kickstarter campaign happened in May 
+
 •	October, July, and June similarly has the same number of failed campaigns 
 
 One conclusion made about outcome based on goals 
@@ -16,4 +17,5 @@ One conclusion made about outcome based on goals
 •	Goals amount between 45000 to 49999 has 0% canceled 
 
 In Summary the initial dataset had limitation such as; unreadable Unix dates format, category and subcategory were in the same cell which would have prevented helpful analysis. I’ll recommend a table to show top backers_counts bases on specified ranges and chart reflecting countries with their total pledges.
+
 ![image](https://user-images.githubusercontent.com/106555873/171503804-3bbe4991-b87b-4357-b7c6-2610c94074cd.png)
