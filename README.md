@@ -18,4 +18,4 @@ One conclusion made about outcome based on goals
 
 In Summary the initial dataset had limitation such as; unreadable Unix dates format, category and subcategory were in the same cell which would have prevented helpful analysis. I’ll recommend a table to show top backers_counts bases on specified ranges and chart reflecting countries with their total pledges.
 
-![image](https://user-images.githubusercontent.com/106555873/171503804-3bbe4991-b87b-4357-b7c6-2610c94074cd.png)
+
