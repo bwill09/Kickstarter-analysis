@@ -12,7 +12,7 @@ Two Outcome base on theater outcomes by lunch date:
 
 •	October, July, and June similarly has the same number of failed campaigns 
 
-One conclusion made about outcome based on goals 
+#### One conclusion made about outcome based on goals 
 
 •	Goals amount between 45000 to 49999 has 0% canceled 
 
